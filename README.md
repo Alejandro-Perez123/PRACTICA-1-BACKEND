@@ -44,5 +44,5 @@ CREATE TABLE estudiante_materia (
     PRIMARY KEY (estudiante_id, materia_id)
 );
 2. Descargar el proyecto spring boot y ejecutarlo
-3.  Descargar el proyecto de React y ejecutar el siguiente comando 
+3.  Descargar el proyecto de React en la rama master y ejecutar el siguiente comando 
 npm install
